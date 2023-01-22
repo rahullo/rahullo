@@ -1,3 +1,10 @@
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+<h1 align="center">Hi 👋, I'm Rahul Lohra</h1>
+<h3 align="center">FullStack Web developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" /> </p>
+<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-lohra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahuullo_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahuullo_) 
