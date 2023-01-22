@@ -1,7 +1,7 @@
-![logo](https://github.com/rahullo/rahullo/blob/main/download.jpeg)
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Rahul Lohra</h1>
 <h3 align="center">FullStack Web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="">
+<img align="center" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" /> </p>
 
