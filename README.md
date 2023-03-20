@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Lohra</h1>
-<h3 align="center">FullStack Web developer & Open Source enthusiastic</h3>
+<h3 align="center">Fulltack Web developer & Open Source enthusiastic</h3>
 <h4 align="center">Looking For FullStack Opportunities</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" /> </p>
