@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" /> </p>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="">
 
+<img align="right" src="https://camo.githubusercontent.com/95aba0099db5f2659e9e69928803ab45cd2ab34298b531692979484a0512fa71/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73616d77656c2d6368656765267468656d653d7261646963616c26636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=samwel-chege&amp;theme=radical&amp;count_private=true" style="max-width: 100%;">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-lohra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahuullo_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahuullo_) 
