@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Lohra</h1>
+<h1 align="center">Hi 👋,I'm Rahul Lohra</h1>
 <h3 align="center"> Data Scientist and Full Stack Developer with Expertise in Python, MERN stack, Pandas, and NumPy, and data visualization libraries like MatPlot.</h3>
 <!-- <h3 align="center"> Data Science </h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" /> </p>
