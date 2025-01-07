@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahullo&theme=dark&hide_border=false)<br/>
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=rahuullo_&theme=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=rahuullo_&theme=transparent)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahullo&icon=0&color=0)](https://visitcount.itsvg.in)
