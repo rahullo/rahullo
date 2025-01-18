@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Rahul Lohra</h1>
-<h3 align="center">Data  Scientist and Full Stack Developer with Expertise in Python, MERN stack, Pandas,and NumPy,and data visualization libraries like MatPlot.</h3>
+<h3 align="center">Data Scientist and Full Stack Developer with Expertise in Python, MERN stack, Pandas,and NumPy,and data visualization libraries like MatPlot.</h3>
 <!-- <h3 align="center"> Data Science </h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="">
