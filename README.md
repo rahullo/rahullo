@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,I'm Rahul Lohra</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN & Django)</h3>
-<h3 align="center">🔍 Exploring AI/ML, Data Science & Cybersecurity</h3>
+<h3 align="center">🚀 AI/ML & Full Stack Developer (MERN & Django)</h3>
+<h3 align="center">🔍  Exploring Cybersecurity</h3>
 <h3 align="center">📚 MCA @BHU | Always learning & building cool stuff</h3>
 <!-- <h3 align="center"> Data Science </h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" /> </p>
