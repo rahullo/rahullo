@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Rahul Lohra</h1>
-<h3 align="center">🚀 AI/ML & Full Stack Developer (MERN & Django)</h3>
+<h3 align="center">🚀 AI/ML & Full Stack Developer (MERN & Django)</h3> 
 <h3 align="center">🔍  Exploring Cybersecurity</h3>
 <h3 align="center">📚 MCA @BHU | Always learning & building cool stuff</h3> 
 <!-- <h3 align="center"> Data Science </h3> -->
