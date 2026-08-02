@@ -1,31 +1,89 @@
-<h1 align="center">Hi 👋,I'm Rahul Lohra</h1>
-<h3 align="center">🚀 AI/ML & Full Stack Developer (MERN & Django)</h3> 
-<h3 align="center">🔍  Exploring Cybersecurity</h3>
-<h3 align="center">📚 MCA @BHU | Always learning & building cool stuff</h3> 
-<!-- <h3 align="center"> Data Science </h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="">
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"  alt=""> -->
+<h1 align="center">Hi 👋, I'm Rahul Lohra</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer (Python • Java • JS)</h3>
+<h3 align="center">🔐 Security-minded builder | 🤖 ML/NLP explorer | 🎓 MCA @ BHU</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-lohra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahuullo_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahuullo_) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" />
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=rahullo&icon=0&color=0" alt="visit count"/></a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahullo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahullo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahullo&theme=dark&hide_border=false)<br/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=rahuullo_&theme=transparent)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 🚀 About Me
+
+- 🛠️ Results-driven **Software Engineer** with hands-on experience in full-stack development, microservices architecture, and secure application design
+- 💼 Currently building **secure, scalable web applications** — recent internship at **CERT-In** (Indian Computer Emergency Response Team)
+- 🧠 Comfortable across the stack: **Django, Spring Boot, Flask, React.js, Node.js/Express**
+- 🔒 Passion for **application security** — auth systems, PBKDF2 hashing, OAuth, MFA, brute-force protection
+- 🤖 Also explore **ML/NLP** — federated learning, document summarization, and data pipelines
+- 📚 Pursuing **MCA at Banaras Hindu University (BHU)**, Varanasi — B.Tech in IT from Dr. Shyama Prasad Mukherjee University
+- 📫 Reach me: **rahullohra987@gmail.com** | 📱 +91-9771315217
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rahul-lohra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/rahuullo_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://instagram.com/rahuullo_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</p>
+
+## 💻 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Frameworks**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**ML / Data**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## 🏆 Highlighted Experience
+
+**Software Engineering Intern — CERT-In**, *Feb 2025 – Aug 2025*
+- Architected and deployed an enterprise-grade Django web app for 100+ internal users with role-based access control, improving workflow efficiency by 40%
+- Designed RESTful microservices for auth, document management, and notifications with 99% uptime
+- Implemented PBKDF2-SHA256 password hashing, OTP-based MFA, and brute-force protection with zero security incidents
+- Integrated Twilio and Gmail APIs, cutting manual verification time by 60%
+- Maintained 90%+ test coverage with pytest in a Jenkins CI/CD pipeline
+
+## 🛠️ Featured Projects
+
+### 🤖 AI-Powered File Converter & Document Summarizer
+`React.js` `Django` `Flask` `REST APIs` `NLP`
+- Scalable document platform for format conversion (PDF/DOCX/TXT) and AI-generated summaries with 90%+ accuracy
+- Async REST endpoints with caching that cut processing time by 5x
+
+### 🏥 Federated Learning System for Healthcare Data
+`Python` `Scikit-learn` `Machine Learning`
+- Privacy-preserving federated learning framework across 5 distributed clients — no raw data sharing
+- Custom federated-averaging aggregation with SGDRegressor achieving 85% prediction accuracy
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rahullo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
+</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullo&theme=dark&hide_border=false" alt="streak stats"/>
+
+## ☕ Support My Work
+
+<p align="left">
+<a href="https://buymeacoffee.com/rahullo"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://paypal.me/rahullo"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+<a href="https://patreon.com/rahullo"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+<a href="https://ko-fi.com/rahullo"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahullo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahullo) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rahullo) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rahullo) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rahullo) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--Please take a moment to appreciate my work. If you like this repo, kindly give it a ⭐ on GitHub.-->
+<p align="center"><i>⭐ If you find my work useful, consider giving it a star!</i></p>
