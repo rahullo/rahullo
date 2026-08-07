@@ -133,7 +133,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullo&theme=tokyonight&hide_border=true" />
 </p>
 
 > 💡 *Replace `YOUR_GITHUB_USERNAME` in the stats URLs above with your actual GitHub username to activate these widgets.*
