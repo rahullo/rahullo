@@ -1,89 +1,155 @@
-<h1 align="center">Hi 👋, I'm Rahul Lohra</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer (Python • Java • JS)</h3>
-<h3 align="center">🔐 Security-minded builder | 🤖 ML/NLP explorer | 🎓 MCA @ BHU</h3>
+<h1 align="center">Hi there, I'm Rahul Lohra 👋</h1>
+<h3 align="center">Full-Stack Developer | Python • JavaScript • SQL | REST APIs & Cloud Deployment</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahullo&label=Profile%20views&color=0e75b6&style=flat" alt="rahullo" />
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=rahullo&icon=0&color=0" alt="visit count"/></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rahullohra987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/New%20Delhi-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
-
-## 🚀 About Me
-
-- 🛠️ Results-driven **Software Engineer** with hands-on experience in full-stack development, microservices architecture, and secure application design
-- 💼 Currently building **secure, scalable web applications** — recent internship at **CERT-In** (Indian Computer Emergency Response Team)
-- 🧠 Comfortable across the stack: **Django, Spring Boot, Flask, React.js, Node.js/Express**
-- 🔒 Passion for **application security** — auth systems, PBKDF2 hashing, OAuth, MFA, brute-force protection
-- 🤖 Also explore **ML/NLP** — federated learning, document summarization, and data pipelines
-- 📚 Pursuing **MCA at Banaras Hindu University (BHU)**, Varanasi — B.Tech in IT from Dr. Shyama Prasad Mukherjee University
-- 📫 Reach me: **rahullohra987@gmail.com** | 📱 +91-9771315217
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/rahul-lohra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/rahuullo_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<a href="https://instagram.com/rahuullo_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</p>
-
-## 💻 Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Frameworks**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**ML / Data**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-## 🏆 Highlighted Experience
-
-**Software Engineering Intern — CERT-In**, *Feb 2025 – Aug 2025*
-- Architected and deployed an enterprise-grade Django web app for 100+ internal users with role-based access control, improving workflow efficiency by 40%
-- Designed RESTful microservices for auth, document management, and notifications with 99% uptime
-- Implemented PBKDF2-SHA256 password hashing, OTP-based MFA, and brute-force protection with zero security incidents
-- Integrated Twilio and Gmail APIs, cutting manual verification time by 60%
-- Maintained 90%+ test coverage with pytest in a Jenkins CI/CD pipeline
-
-## 🛠️ Featured Projects
-
-### 🤖 AI-Powered File Converter & Document Summarizer
-`React.js` `Django` `Flask` `REST APIs` `NLP`
-- Scalable document platform for format conversion (PDF/DOCX/TXT) and AI-generated summaries with 90%+ accuracy
-- Async REST endpoints with caching that cut processing time by 5x
-
-### 🏥 Federated Learning System for Healthcare Data
-`Python` `Scikit-learn` `Machine Learning`
-- Privacy-preserving federated learning framework across 5 distributed clients — no raw data sharing
-- Custom federated-averaging aggregation with SGDRegressor achieving 85% prediction accuracy
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rahullo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullo&theme=dark&hide_border=false" alt="streak stats"/>
-
-## ☕ Support My Work
-
-<p align="left">
-<a href="https://buymeacoffee.com/rahullo"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-<a href="https://paypal.me/rahullo"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-<a href="https://patreon.com/rahullo"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
-<a href="https://ko-fi.com/rahullo"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+REST+APIs+%26+ML+systems;Django+%2F+FastAPI+%2F+React.js+%2F+PyTorch;Security-first%2C+cloud-native+development" alt="Typing SVG" />
 </p>
 
 ---
-<p align="center"><i>⭐ If you find my work useful, consider giving it a star!</i></p>
+
+### 🧑‍💻 About Me
+
+- 🎓 MCA from **Banaras Hindu University** (2025), BSc IT from **Dr. Shyama Prasad Mukherjee University** (2023)
+- 🔐 Former Full Stack & Security Intern at **CERT-In** (Indian Computer Emergency Response Team)
+- 🛠️ I build client-facing full-stack systems, RESTful APIs, and ML-powered applications
+- 🧠 Strong fundamentals in Data Structures, Algorithms, and applied security engineering
+- 📈 Interested in PyTorch-based ML systems, distributed/federated learning, and scalable backend architecture
+- ⚡ Fun fact: I've shipped features across 40+ commits in Agile teams and hardened production auth flows with zero security incidents
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>💱 Converto — Currency Exchange & Booking PWA</h4>
+      <p>Full-stack Progressive Web App for currency exchange, "Buy For Me," and ticket booking. Built REST API integrations, PostgreSQL data flow, secure auth &amp; middleware for wallet management.</p>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4>🕵️ AI-Generated Image / Video Detection System</h4>
+      <p>PyTorch classification model (94.3% accuracy, 80K samples) served via Flask API + React dashboard. FFT/DCT feature pipeline boosted recall by 18%; 0.96 AUC evaluation framework.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🏥 Federated Learning System for Medical Insurance</h4>
+      <p>Privacy-preserving federated learning (FedAvg) across 5 virtual clients, R² = 0.85 without raw data sharing. Gradient compression cut network overhead by 35%.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4>🏛️ CERT-In Internal Django Application</h4>
+      <p>Client-facing full-stack app for 100+ internal users. Twilio/Gmail API integration, Celery+Redis async processing, MFA/PBKDF2-SHA256 security — 40% workflow efficiency gain.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+> 💡 *Replace project links above with your actual GitHub repo URLs, e.g. `[Converto](https://github.com/yourusername/converto)`*
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+**Web Development**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+**Machine Learning**
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+**Databases**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+**Cloud & DevOps**
+<p>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+</p>
+
+**Testing & Security**
+<p>
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/MFA%2FOTP-4B0082?style=flat-square"/>
+</p>
+
+---
+
+### 💼 Experience
+
+**Intern – Full Stack & Security** · CERT-In (Indian Computer Emergency Response Team) · *Feb 2025 – Aug 2025*
+- Built a Django app for 100+ internal users, improving workflow efficiency by **40%**
+- Integrated Twilio/Gmail REST APIs with Celery + Redis async processing, cutting manual processing time by **60%**
+- Implemented PBKDF2-SHA256 hashing, MFA (TOTP/OTP), and brute-force protection — **zero security incidents**
+- Deployed via Docker + Nginx, collaborating with 8+ engineers in Agile/Scrum sprints
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+> 💡 *Replace `YOUR_GITHUB_USERNAME` in the stats URLs above with your actual GitHub username to activate these widgets.*
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:rahullohra987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+919771315217"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>⭐️ Open to full-stack, backend, and ML engineering opportunities</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="profile views"/>
+</p>
